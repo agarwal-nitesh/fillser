@@ -1,3 +1,7 @@
+/*jshint node:true
+----Created By Nitesh Agarwal on 15/10/14. All rights reserved. Copyright (c) 2014 Nitesh. 
+niteshagarwal1.618@gmail.com
+*/
 var busboy = require('connect-busboy'),
 	fs = require('fs'),
 	mongoose = require('mongoose');
