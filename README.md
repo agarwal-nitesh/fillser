@@ -9,7 +9,9 @@ fillser
 ## This application is a file browser application.
 ## It can be used to add directories and put files under those directories.
 ## It has REST services to upload and retrieve files from mobile Applications.
-## It also has HTML5 frontend to create directories and upload files.	
+## It also has HTML5 frontend to create directories and upload files.
+## It stores uploaded files to mongoDB in binary format
+## While retrieving it returns file with proper format (mime type).
 ## Files
 
 The Node.js starter application has files as below:
