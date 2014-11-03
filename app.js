@@ -1,4 +1,7 @@
-/*jshint node:true*/
+/*jshint node:true
+----Created By Nitesh Agarwal on 15/10/14. All rights reserved. Copyright (c) 2014 Nitesh. 
+niteshagarwal1.618@gmail.com
+*/
 
 // app.js
 // This file contains the server side JavaScript code for your application.
